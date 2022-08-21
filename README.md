@@ -1,2 +1,2 @@
 # TinDog
-This landing page is created using bootstrap . Onyl for the learning purpose 
+This landing page is created using bootstrap . Only for the learning purpose 
